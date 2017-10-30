@@ -1,6 +1,6 @@
 # LearnJava
 some java skills
-<h1>1. 百元百鸡</h1><br>
+<h2>1. 百元百鸡</h2><br>
 * 公鸡：一只5元<br>
 * 母鸡：一只3元<br>
 * 小鸡：三只1元<br>
