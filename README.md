@@ -1,5 +1,4 @@
-<a id="LearnJava"></a>
-# LearnJava
+# LearnJava <a id="LearnJava"></a>
 ## 1. [JavaGeneral](#JavaGeneral)
 ## 2. AlgorithmProblem
 <br>
@@ -54,4 +53,4 @@
 <br>
 
 
-## 1. [⬆ back to top](#LearnJava)
+#### [⬆ back to top](#LearnJava)
