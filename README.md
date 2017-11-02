@@ -1,8 +1,22 @@
 # LearnJava
-some java skills
-<h2>1. 百元百鸡</h2><br>
+## 1. [JavaGeneral](#JavaGeneral)
+## 2. AlgorithmProblem
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h3>package:  bai_yuan_bai_chicken<h3><br>
-
+<span id="JavaGeneral">JavaGeneral</span>
 * 公鸡：一只5元<br>
 * 母鸡：一只3元<br>
 * 小鸡：三只1元<br>
