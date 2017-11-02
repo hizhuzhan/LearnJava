@@ -13,7 +13,6 @@
 
 ***
 <br>
-<br>
 <a id="1"></a>
 ## JavaGeneral <br>
 <a id="1.1"></a>
@@ -29,7 +28,7 @@
 #### [⬆ back to top](#LearnJava)
 
 <br>
-<br>
+
 <a id="2"></a>
 ## AlgorithmProblem <br>
 <a id="2.1"></a>
