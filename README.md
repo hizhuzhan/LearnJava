@@ -1,21 +1,15 @@
 # LearnJava <a id="LearnJava"></a>
 ### 1. [JavaGeneral](#JavaGeneral)
-  #### 1.1 
+  >#### 1.1 如何实现在main()方法执行之前执行一个方法
+  >#### 1.2 Java程序执行的顺序是怎样的
+
 ### 2. AlgorithmProblem
 <br>
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <h3>package:  bai_yuan_bai_chicken<h3><br>
 ## JavaGeneral <a id="JavaGeneral"></a>
 * 公鸡：一只5元<br>
@@ -54,4 +48,4 @@
 <br>
 
 
-## 1. [⬆ back to top](#LearnJava)
+#### [⬆ back to top](#LearnJava)
