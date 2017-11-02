@@ -1,4 +1,5 @@
-# LearnJava <a id="LearnJava"></a>
+<a id="LearnJava"></a>
+# LearnJava
 ### 1. [JavaGeneral](#1)
   >###### 1.1. [如何实现在main()方法执行之前执行一个方法](#1.1)
   >###### 1.2. [Java程序执行的顺序是怎样的](#1.2)
