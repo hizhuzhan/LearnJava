@@ -16,7 +16,7 @@
 <br>
 <br>
 <h3>package:  bai_yuan_bai_chicken<h3><br>
-<span id="JavaGeneral">JavaGeneral</span>
+## <span name="JavaGeneral">test.JavaGeneral</span><br>
 * 公鸡：一只5元<br>
 * 母鸡：一只3元<br>
 * 小鸡：三只1元<br>
