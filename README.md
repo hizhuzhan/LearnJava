@@ -1,6 +1,7 @@
 # LearnJava <a id="LearnJava"></a>
-## 1. [JavaGeneral](#JavaGeneral)
-## 2. AlgorithmProblem
+### 1. [JavaGeneral](#JavaGeneral)
+  #### 1.1 
+### 2. AlgorithmProblem
 <br>
 <br>
 <br>
@@ -53,4 +54,4 @@
 <br>
 
 
-#### [⬆ back to top](#LearnJava)
+## 1. [⬆ back to top](#LearnJava)
