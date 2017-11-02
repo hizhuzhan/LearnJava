@@ -12,14 +12,24 @@
 <br>
 
 ***
+<br>
+<br>
 <a id="1"></a>
 ## JavaGeneral <br>
 <a id="1.1"></a>
 ### 1.1. 如何实现在main()方法执行之前执行一个方法 <br>
 > #### **package:** JavaGeneral</span><br>
 > #### **class:** Earlier_print_than_mainMethod.java
+#### [⬆ back to top](#LearnJava)
 
+<a id="1.2"></a>
+### 1.2. Java程序执行的顺序是怎样的 <br>
+> #### **package:** JavaGeneral</span><br>
+> #### **class:** Java_initialize_the_order.java
+#### [⬆ back to top](#LearnJava)
 
+<br>
+<br>
 <a id="2"></a>
 ## AlgorithmProblem <br>
 <a id="2.1"></a>
@@ -31,36 +41,34 @@
 > * #### 母鸡：一只3元<br>
 > * #### 小鸡：三只1元<br>
 > * #### 问：100元买100只鸡共有几种情况？<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 #### [⬆ back to top](#LearnJava)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
