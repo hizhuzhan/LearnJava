@@ -12,10 +12,12 @@
 <br>
 
 ***
-## JavaGeneral <a id="1"></a><br>
-1.1. 如何实现在main()方法执行之前执行一个方法 <a id="1.1"></a><br>
-     > package: JavaGeneral</span>
-     > class: Earlier_print_than_mainMethod.java
+<a id="1"></a>
+## JavaGeneral <br>
+<a id="1.1"></a>
+1.1. 如何实现在main()方法执行之前执行一个方法 <br>
+> #### **package:** JavaGeneral</span><br>
+> #### **class:** Earlier_print_than_mainMethod.java
 
 
 
