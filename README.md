@@ -1,4 +1,4 @@
-# LearnJava
+# LearnJava <a id="LearnJava"></a>
 ## 1. [JavaGeneral](#JavaGeneral)
 ## 2. AlgorithmProblem
 <br>
