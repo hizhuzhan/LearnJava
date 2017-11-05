@@ -10,7 +10,7 @@
 <br>
 <br>
 
-***
+---
 <a id="1"></a>
 ## JavaGeneral <br>
 <a id="1.1"></a>
@@ -22,7 +22,11 @@
 > ：在Java中静态块在累被加载时就会被调用，如下：<br>
 > 由于静态块 不管顺序如何，都会在main() 方法执行之前执行，因此不管静态块 放在何处都会比main() 方法先执行。
 
+<br>
+
 #### [⬆ back to top](#LearnJava)
+
+---
 
 <a id="1.2"></a>
 ### 1.2. Java程序执行的顺序是怎样的 <br>
@@ -40,7 +44,11 @@
 > 9. 子类非静态变量代码块<br>
 > 10.子类构造函数 <br>
 
+<br>
+
 #### [⬆ back to top](#LearnJava)
+
+---
 
 <br>
 
@@ -56,34 +64,8 @@
 > 小鸡：三只1元<br>
 > 问：100元买100只鸡共有几种情况？<br>
 
+<br>
+
 #### [⬆ back to top](#LearnJava)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+---
