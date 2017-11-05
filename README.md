@@ -13,7 +13,6 @@
 <br>
 
 ***
-<br>
 <a id="1"></a>
 ## JavaGeneral <br>
 <a id="1.1"></a>
