@@ -1,11 +1,12 @@
-<a id="LearnJava"></a>
-# LearnJava
+# *** LearnJava *** <a id="LearnJava"></a>
+## 目录
 ### 1. [JavaGeneral](#1)
   >###### 1.1. [如何实现在main()方法执行之前执行一个方法](#1.1)
   >###### 1.2. [Java程序执行的顺序是怎样的](#1.2)
 
 ### 2. [AlgorithmProblem](#2)
   >###### 2.1 [百元白鸡](#2.1)
+<br>
 <br>
 <br>
 
