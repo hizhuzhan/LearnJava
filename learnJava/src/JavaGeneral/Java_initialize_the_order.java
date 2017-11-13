@@ -1,4 +1,4 @@
-package JavaGeneral;
+package javaGeneral;
 
 /**
  * Java中不同类型的代码块执行的顺序
@@ -68,7 +68,7 @@ class A extends B{
 	}
 	static{
 		System.out.println("Creade A");
-	}
+	} 
 }
 
 public class Java_initialize_the_order{

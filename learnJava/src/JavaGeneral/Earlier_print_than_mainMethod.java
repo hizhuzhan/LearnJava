@@ -1,4 +1,4 @@
-package JavaGeneral;
+package javaGeneral;
 
 public class Earlier_print_than_mainMethod {
 	
